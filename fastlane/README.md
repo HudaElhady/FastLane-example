@@ -26,6 +26,11 @@ Create app on Apple Developer and App Store Connect
 fastlane ios tests
 ```
 
+### ios push_remote
+```
+fastlane ios push_remote
+```
+Push to Github
 
 ----
 
