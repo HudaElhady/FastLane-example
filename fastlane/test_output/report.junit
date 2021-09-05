@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='Fastlane-SampleUITests.xctest' tests='3' failures='0'>
+  <testsuite name='Fastlane_SampleTests.Fastlane_SampleTests' tests='1' failures='0'>
+    <testcase classname='Fastlane_SampleTests.Fastlane_SampleTests' name='testCountLessThan10' time='0.005'/>
+  </testsuite>
+  <testsuite name='Fastlane_SampleUITests.Fastlane_SampleUITests' tests='2' failures='0'>
+    <testcase classname='Fastlane_SampleUITests.Fastlane_SampleUITests' name='testExample' time='7.602'/>
+    <testcase classname='Fastlane_SampleUITests.Fastlane_SampleUITests' name='testLaunchPerformance' time='113.716'/>
+  </testsuite>
+</testsuites>
